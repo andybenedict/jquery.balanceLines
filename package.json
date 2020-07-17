@@ -1,0 +1,23 @@
+{
+  "name": "jquery.balancelines",
+  "version": "1.0.0",
+  "description": "A jquery plugin that automatically calculates the necessary margins to balance the width of lines of text",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybenedict/jquery.balanceLines.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "balancedLines"
+  ],
+  "author": "Andy Benedict",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andybenedict/jquery.balanceLines/issues"
+  },
+  "homepage": "https://github.com/andybenedict/jquery.balanceLines#readme"
+}
